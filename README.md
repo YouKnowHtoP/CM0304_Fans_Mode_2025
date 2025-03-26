@@ -8,10 +8,10 @@
 ###
 ### Put these 5 files in the same folder: 
 ### 
-### cm0304fm25.deps
-### cm0304fm25.dll
-### cm0304fm25.exe
-### cm0304fm25.runtimeconfig
-### Newtonsoft.Json.dll
+### "cm0304fm25.deps"
+### "cm0304fm25.dll"
+### "cm0304fm25.exe"
+### "cm0304fm25.runtimeconfig"
+### "Newtonsoft.Json.dll"
 ###
 ### Have Fun !
