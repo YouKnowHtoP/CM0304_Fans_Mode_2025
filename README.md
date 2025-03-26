@@ -1,4 +1,4 @@
-###
+### 
 ### Championship Manager: Season 03/04 Fans Mode 2025
 ###
 ### You can use this program to change Foreign/Non-EU player restrictions
@@ -13,6 +13,8 @@
 ### "cm0304fm25.exe"
 ### "cm0304fm25.runtimeconfig"
 ### "Newtonsoft.Json.dll"
+###
+### Version: First Update
 ###
 ### You can watch the video on my channel to see how it is used:
 ### www.youtube.com/@YouKnowHtoP
