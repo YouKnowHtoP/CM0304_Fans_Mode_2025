@@ -14,4 +14,7 @@
 ### "cm0304fm25.runtimeconfig"
 ### "Newtonsoft.Json.dll"
 ###
+### To see how to use it, you can check out the video my channel: 
+### www.youtube.com/@YouKnowHtoP
+###
 ### Have Fun !
