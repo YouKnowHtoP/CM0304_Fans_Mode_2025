@@ -16,6 +16,9 @@
 ###
 ### Version: First Update
 ###
+### Compatible versions:
+### 4.1.1 [01/11/2003],  4.1.2 [21/11/2003], 4.1.3 [22/12/2003], 4.1.4 [15/01/2004], 4.1.5 [13/05/2020]
+###
 ### You can watch the video on my channel to see how it is used:
 ### www.youtube.com/@YouKnowHtoP
 ###
